@@ -18,7 +18,7 @@
         <dependency>
             <groupId>com.github.michaelelliston</groupId>
             <artifactId>challenge-checker</artifactId>
-            <version>bc965237da</version>
+            <version>3c8a9dd4b2</version>
         </dependency>
     </dependencies>
 
