@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class ChallengeTwo {
 
-    /** Implement code to return a collection of each Person object's full name **/
+    /** Implement code to return a collection of Strings with each Person object's first and last name **/
 
     public static ArrayList<String> getFullNames(ArrayList<Person> people) {
 
