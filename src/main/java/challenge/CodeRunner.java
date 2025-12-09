@@ -17,8 +17,11 @@ public class CodeRunner {
     static boolean challengeTwoSuccess;
     static boolean challengeThreeSuccess;
 
-    // After finishing each challenge, comment it out and uncomment the next challenge block. Or, try for all of them in one go!
-
+     /**
+      * If you only want to try one of these challenges and not the others,
+      * comment out the other challenge code blocks, and set the value of
+      * any prior challenges' Success to true.
+      */
     public static void main(String[] args) {
 
         // Challenge One
