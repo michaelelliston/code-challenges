@@ -17,11 +17,11 @@ public class CodeRunner {
     static boolean challengeTwoSuccess;
     static boolean challengeThreeSuccess;
 
-     /**
-      * If you only want to try one of these challenges and not the others,
-      * comment out the other challenge code blocks, and set the value of
-      * any prior challenges' Success to true.
-      */
+    /**
+     * If you only want to try one of these challenges and not the others,
+     * comment out the other challenge code blocks, and set the value of
+     * any prior challenges' Success to true.
+     */
     public static void main(String[] args) {
 
         // Challenge One
